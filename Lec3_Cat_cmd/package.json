@@ -1,0 +1,12 @@
+{
+  "name": "Lec3_Cat_cmd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./wCat.js",
+  "bin": {
+    "cat": "./wCat.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
